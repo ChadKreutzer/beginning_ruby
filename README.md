@@ -1,0 +1,1 @@
+Projects from the Beginning Ruby book by Peter Cooper
